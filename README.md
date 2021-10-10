@@ -11,7 +11,7 @@ This app is made with Expo cli!
 
 ### :bookmark: This starter App use expo-location, react-native-maps & @react-navigation/native.
 
-<img  style =" margin-top: 5px; margin-right: 22px " src="demo/demo.gif" alt="drawing" height="650" width="325"/>
+<img  style =" margin-top: 5px; margin-right: 22px " src="demo/demo.gif" alt="drawing" height="660" width="325"/>
 
 
 
