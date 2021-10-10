@@ -16,7 +16,7 @@ This app is made with Expo cli!
 
 
 
-## :computer: Online sites
+## :computer: Online Demo
 
 
 **You can try this app with Expo Go** **[here](https://expo.dev/@rodolphe37/geolocation-tracker)**,
