@@ -9,7 +9,7 @@
 
 This app is made with Expo cli!
 
-### :bookmark: This starter App contain use expo-location, react-native-maps & @react-navigation/native.
+### :bookmark: This starter App use expo-location, react-native-maps & @react-navigation/native.
 
 
 
