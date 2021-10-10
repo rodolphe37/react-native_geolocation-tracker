@@ -1,7 +1,6 @@
 import { StyleSheet, Text, View } from "react-native";
 import React, { useEffect, useState } from "react";
 import MapView from "react-native-maps";
-import MenuBottom from "../components/MenuBottom";
 import { SafeAreaView } from "react-native-safe-area-context";
 import useLocation from "../hooks/useLocation";
 
